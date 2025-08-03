@@ -6,12 +6,12 @@ A React-based web app that helps users manage perishable food items by tracking 
 ---
 
 ## Features
-  Add food items with expiration dates
-  Automatically sorted by soonest expiration
-  Color-coded alerts for expiring or expired items
-  Urgency badge in the header when items are expiring soon
-  Easy one-click removal of expired or consumed items
-  Clean, mobile-friendly UI built with Tailwind CSS and Lucide icons
+- Add food items with expiration dates
+- Automatically sorted by soonest expiration
+- Color-coded alerts for expiring or expired items
+- Urgency badge in the header when items are expiring soon
+- Easy one-click removal of expired or consumed items
+- Clean, mobile-friendly UI built with Tailwind CSS and Lucide icons
 
 ---
 
@@ -32,12 +32,12 @@ A React-based web app that helps users manage perishable food items by tracking 
 git clone https://github.com/your-username/food-expiration-tracker.git
 cd food-expiration-tracker
 npm install
-npm start'''
+npm start
 
 ---
 
 ## Project Structure
-src/
+```src/
 ├── components/
 │   └── FoodExpirationTracker.jsx
 ├── App.jsx
