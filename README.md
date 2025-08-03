@@ -32,7 +32,7 @@ A React-based web app that helps users manage perishable food items by tracking 
 git clone https://github.com/your-username/food-expiration-tracker.git
 cd food-expiration-tracker
 npm install
-npm start
+npm start'''
 
 ---
 
